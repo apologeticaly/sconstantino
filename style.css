@@ -47,7 +47,8 @@ body {
     font-size: 15px;    
     line-height: 30px;
     font-weight: 400;       
-    color: #a88590;
+    /* color: #a88590; */
+    color: #faefff;
     background-color: #fff;
     overflow-x: hidden;
 }
@@ -77,7 +78,7 @@ body img {
     width: 100%;
     height: 100%;
     z-index: 99999;
-    background-color: #362B2E;
+    background-color: #33202A;
 }
 
 .doc-loader img {
@@ -133,7 +134,7 @@ a.button:hover {
 .content-left {
     position: fixed;
     width: 380px;
-    background-color: #362B2E;
+    background-color: #33202A;
     height: 100vh;
     z-index: 1;
 }
@@ -373,7 +374,7 @@ img.my-info-signature {
     content: "";
     position: absolute;
     z-index: -1;
-    background-color: #362b2e;
+    background-color: #33202A;
     width: 58px;
     height: 80px;
     border-radius: 25px;
@@ -513,7 +514,7 @@ img.my-info-signature {
 }
 
 .section {
-    background-color: #302729;
+    background-color: #493B48;
     position: relative;
     padding-top: 150px;
 }
@@ -569,7 +570,7 @@ h2.section-title {
 }
 
 h1.entry-title {
-    font-size: 100px;
+    font-size: 80px;
     line-height: 94px;
     font-weight: 800;
     color: #f37b83;
@@ -713,7 +714,7 @@ h1.entry-title {
 }
 
 .category-filter-list {
-    background-color: #362b2e;
+    background-color: #33202A;
     padding: 24px 20px;
     width: 110px;
     display: none;
